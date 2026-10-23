@@ -1,0 +1,78 @@
+Q::1 What is python ?
+A::1 Python is a high-level general-purpose programming language it is easy to learn & it used
+    for web-development , data anylisis , automation .
+
+a::1 python is a high-level general-purpose programming language it is easy to learn and is used 
+    for web-development , data anylisis , automation 
+
+a::1 Python is a high-level general-purpose programming language it is eay to learn & it used 
+    for web-development , data anylisis , automation.
+
+a::1 Python is a high-level general-purpose programming language it is easy to learn it used for 
+    web-development , automation , deata analysis
+
+a::1 Python is a high-level general-purpose programming language it is easy to learn it userd for 
+    web-development , data analysis , automation . 
+
+-------------------------------------------------------------------------------------------------
+
+Q::2 What is a variable ?
+
+A::2 A variable is a name used to store a value 
+ex = name = Neel
+here name is variable and neel is value 
+
+A::2 A variable is a name used to store a value 
+ex : a = 10
+here a is variable and 10 is value 
+
+a::2 A variable is a name used to store a value 
+
+a::2 A variable is a name userd to store a value 
+
+a::2 A variable is a name used to store a value 
+
+------------------------------------------------------------------------------
+
+Q::3 What is dataType ?
+
+A::3  Datatpye variable kiss type ka hai wohh defina karta hai  like iteger , string , folat 
+
+a::3 datatype variable kiss type ka hai wohh define karta hai like integer , string  boolean
+
+a:: 3 datatype varialble ka type define karta hai 
+
+a:: 3 datatype varialble ka type define karta hai 
+
+a:: 3 datatype varialble ka type define karta hai 
+
+-----------------------------------------------------------------------------------
+
+
+Q::4 What is the use of print() ?
+
+a::4 print() is use for display information on the screen 
+
+a::4 print() is use for display information on the screen
+
+a::4 print() is use for display information on the screen
+
+a::4 print() is use for display information on the screen
+
+a::4 print() is use for display information on the screen
+
+
+--------------------------------------------------------------------------------
+
+Q::5 What is the use of input() ?
+
+a::5 input() use for accepts information by the user 
+
+input() use for accepts information by the user
+
+input() use for somthing accepts from users
+
+input() use for somthing accepts from users
+
+input() use for somthing accepts from users
+
